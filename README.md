@@ -1,4 +1,4 @@
-# Übersicht Digital Desktop Clock Widget
+# Digital Desktop Clock Widget
 ## A digital clock that will show as long as the Dock is open.
 
 ![](https://i.imgur.com/K8ZhrwA.png)
