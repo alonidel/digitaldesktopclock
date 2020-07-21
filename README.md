@@ -18,7 +18,7 @@
 4. Move digital-7.ttf font file to your Ubersicht fonts folder. 
 5. Enjoy!
 
--
+--
 
 #### Folders location:
 - Ubersicht's folders are easily accessable via Ubersicht's menubar app icon.
