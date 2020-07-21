@@ -1,4 +1,4 @@
-# Digital Desktop Clock Widget for Übersicht
+# Digital Desktop Clock
 ## A digital clock that appears next to the Mac Dock
 
 ![](https://i.imgur.com/K8ZhrwA.png)
