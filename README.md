@@ -2,6 +2,7 @@
 ## A digital clock that appears next to the Mac Dock
 
 ![](https://i.imgur.com/K8ZhrwA.png)
+![](https://i.imgur.com/PqMaqgh.png)
 
 ### Description:
 * A Digital Desktop Clock that appears next to the Mac Dock as long as it's opened.
