@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/K8ZhrwA.png)
 
 ### Description:
-* A Digital Desktop Clock that will always appear as long as the Mac Dock is open.
+* A Digital Desktop Clock that will always next to the Mac Dock as long as it's opened.
 * It's actual position is in the Mac Desktop.
 * Works as a [Übersicht](http://tracesof.net/uebersicht/) app widget.
 * Shows the time and date.
