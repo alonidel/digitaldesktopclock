@@ -2,7 +2,6 @@
 ## A digital clock that appears next to the Mac Dock
 
 ![](https://i.imgur.com/K8ZhrwA.png)
-![](https://i.imgur.com/PqMaqgh.png)
 
 ### Description:
 * A Digital Desktop Clock that appears next to the Mac Dock as long as it's opened.
@@ -16,3 +15,5 @@
 3. Move digitaldesktopclock.widget folder to your Ubersicht widgets folder.
 4. Move digital-7.ttf font file to your Ubersicht fonts folder.
 5. Enjoy!
+
+![](https://i.imgur.com/PqMaqgh.png)
