@@ -1,5 +1,5 @@
 # Digital Desktop Clock
-## A digital clock that appears next to the Mac Dock
+## A digital clock that appears next to your Mac Dock
 
 ![](https://i.imgur.com/PqMaqgh.png)
 
