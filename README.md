@@ -14,6 +14,14 @@
 ### To make it work:
 1. Download & install [Übersicht](http://tracesof.net/uebersicht/)
 2. Download this repo files.
-3. Move digitaldesktopclock.widget folder to your Ubersicht widgets folder. (easily accessable via Ubersicht's menubar app icon) 
+3. Move digitaldesktopclock.widget folder to your Ubersicht widgets folder.
 4. Move digital-7.ttf font file to your Ubersicht fonts folder. 
 5. Enjoy!
+
+-
+
+#### Folders location:
+- Ubersicht's folders are easily accessable via Ubersicht's menubar app icon.
+- Paths are usually: 
+  - ~/Library/Application Support/Übersicht/widgets 
+  - ~/Library/Application Support/Übersicht/fonts
