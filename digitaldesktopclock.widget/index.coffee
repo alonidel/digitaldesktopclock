@@ -34,34 +34,25 @@ style: (->
     }
     #clock {
       position: fixed;
+      width: 180px;
       height: 106px;
       box-sizing: border-box;
       padding-top: 12px;
-      width: 180px;
       display: inline-block;
-      border-bottom:0;
+      border-bottom: 0;
       border-radius: 0px 0px 0 0;
-      color: #33E079
-      bottom: 0
-      right: 0
-      background: rgba(#000, 0)
+      color: #33E079;
+      bottom: 0;
+      right: 0;
+      background: rgba(#000, 0);
     }
     #minutes,
-    #hours{
+    #hours {
       display: inline-block;
       font-size: 4em;
     }
     #blinky {
       font-size: 4em;
-      //animation: blink 1s infinite;
-    }
-
-    @keyframes blink {
-      0% {opacity:1}
-      25% {opacity:1}
-      50% {opacity:0}
-      75% {opacity:1}
-      100% {opacity:1}
     }
 
     .container {
