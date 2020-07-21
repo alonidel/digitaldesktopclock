@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/k3liYcf.png)
 
 ### Description:
-* Shows the time, date & day.
+* Shows current time, date & day.
 * Visible even when windows are opened, as long as the Dock is opened.
 * Easily customizable.
 * Works as a [Übersicht](http://tracesof.net/uebersicht/) app widget.
