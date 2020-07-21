@@ -5,7 +5,7 @@
 
 ### Description:
 * A Digital Desktop Clock that appears next to the Mac Dock as long as it's opened.
-* Shows the time and date.
+* Shows the time, date & day.
 * Easily customizable.
 * Works as a [Übersicht](http://tracesof.net/uebersicht/) app widget.
 
