@@ -21,7 +21,7 @@
 --
 
 #### Folders location:
-- Ubersicht's folders are easily accessable via Ubersicht's app menubar icon.
+- Ubersicht's folders are easily accessable via Ubersicht's menubar app icon.
 - Paths are usually: 
   - ~/Library/Application Support/Übersicht/widgets 
   - ~/Library/Application Support/Übersicht/fonts
