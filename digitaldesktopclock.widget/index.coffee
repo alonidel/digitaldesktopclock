@@ -28,7 +28,7 @@ style: (->
       font-family: 'digital-7';
       src: url('/fonts/digital-7.ttf');
     }
-    span,span {
+    span {
       margin: 0px; padding: 0px;
       font-family: 'digital-7', monospace;
     }
@@ -54,17 +54,16 @@ style: (->
     #blinky {
       font-size: 4em;
     }
-
     .container {
       position: inline-block;
       width: 100%;
-      text-align: center
+      text-align: center;
     }
     #date,
     #day {
       font-size: 2em;
       opacity: 0.7;
-      margin: 4px
+      margin: 4px;
     }
   """
 )()
