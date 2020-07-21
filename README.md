@@ -3,14 +3,14 @@
 
 ![](https://i.imgur.com/K8ZhrwA.png)
 
-### Description
+### Description:
 * A Digital Desktop Clock that will always appear as long as the Mac Dock is open.
 * It's actual position is in the Mac Desktop.
 * Works as a [Übersicht](http://tracesof.net/uebersicht/) app widget.
 * Shows the time and date.
 * Easily customizable using Front-end technologies.
 
-To make it work:
+### To make it work:
 1. Download & install [Übersicht](http://tracesof.net/uebersicht/)
 2. Move digitaldesktopclock.widget folder to your Ubersicht widgets folder.
 3. Move digital-7.ttf font file to your Ubersicht fonts folder.
