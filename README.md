@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/PqMaqgh.png)
 
-![](https://i.imgur.com/K8ZhrwA.png)
+![](https://i.imgur.com/k3liYcf.png)
 
 ### Description:
 * Shows the time, date & day.
