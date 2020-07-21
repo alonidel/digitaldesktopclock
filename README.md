@@ -1,5 +1,5 @@
 # Digital Desktop Clock Widget
-## A digital clock that will show as long as the Dock is open.
+## A digital clock that appears next to the Mac Dock.
 
 ![](https://i.imgur.com/K8ZhrwA.png)
 
