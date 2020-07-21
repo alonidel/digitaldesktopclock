@@ -5,7 +5,7 @@
 
 ### Description:
 * Shows the time, date & day.
-* Visible even when other windows are opened, as long as the Dock is opened.
+* Visible even when windows are opened, as long as the Dock is opened.
 * Easily customizable.
 * Works as a [Übersicht](http://tracesof.net/uebersicht/) app widget.
 
