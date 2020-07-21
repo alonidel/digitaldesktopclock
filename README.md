@@ -18,7 +18,9 @@
 4. Move digital-7.ttf font file to your Ubersicht fonts folder. 
 5. Enjoy!
 
-#### Folder locations
+--
+
+#### Folders location:
 Ubersicht's folders are easily accessable via Ubersicht's menubar icon.
 The paths are usually:
 ~/Library/Application Support/Übersicht/widgets
